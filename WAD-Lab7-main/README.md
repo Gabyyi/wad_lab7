@@ -42,3 +42,5 @@ How to create a new branch on GitHub & how to switch to it locally:
 <!-- Test auto-merge PR: This comment was added to test GitHub Actions auto-merge functionality. -->
 
 <!-- dummy change for auto-merge test -->
+
+<!-- dummy change for auto-merge test -->
