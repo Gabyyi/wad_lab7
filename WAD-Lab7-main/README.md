@@ -38,3 +38,5 @@ How to create a new branch on GitHub & how to switch to it locally:
 
 **You can check the branch you are currently on by running `git branch`.** 
 
+
+<!-- Test auto-merge PR: This comment was added to test GitHub Actions auto-merge functionality. -->
