@@ -64,3 +64,7 @@ WARNING: Unmatched cancel notification for request id 4
 
 2026.05.11 18:11:42 INFO  no build target found for /Users/admin/anul 3/sem2/web programing/wad_lab7/WAD-Lab7-main/src/test/java/com/upb/lab7_wad/Lab7WadApplicationTests.java. Using fallback presentation compiler.
 2026.05.11 18:11:42 INFO  no build target found for /Users/admin/anul 3/sem2/web programing/wad_lab7/WAD-Lab7-main/src/test/java/com/upb/lab7_wad/Lab7WadApplicationTests.java. Using fallback presentation compiler.
+2026.05.11 18:12:20 WARN  Running javac-semanticdb failed for file:///Users/admin/anul%203/sem2/web%20programing/wad_lab7/WAD-Lab7-main/src/test/java/com/upb/lab7_wad/Lab7WadApplicationTests.java. Output:
+
+2026.05.11 18:12:20 INFO  no build target found for /Users/admin/anul 3/sem2/web programing/wad_lab7/WAD-Lab7-main/src/test/java/com/upb/lab7_wad/Lab7WadApplicationTests.java. Using fallback presentation compiler.
+2026.05.11 18:12:20 INFO  no build target found for /Users/admin/anul 3/sem2/web programing/wad_lab7/WAD-Lab7-main/src/test/java/com/upb/lab7_wad/Lab7WadApplicationTests.java. Using fallback presentation compiler.

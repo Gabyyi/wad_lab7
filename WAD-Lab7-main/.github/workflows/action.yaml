@@ -1,4 +1,7 @@
 name: Lab 7
+#TODO The pipeline should be triggered only on push to a "test" branch
+permissions:
+  pull-requests: write
 on:
   push:
     branches:
@@ -27,3 +30,10 @@ jobs:
         run: ./gradlew test jacocoTestReport
         env:
           MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
+
+      - name: Enable auto-merge for pull requests
+        if: github.event_name == 'pull_request'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          merge-method: squash
