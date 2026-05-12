@@ -44,3 +44,5 @@ How to create a new branch on GitHub & how to switch to it locally:
 <!-- dummy change for auto-merge test -->
 
 <!-- dummy change for auto-merge test -->
+
+<!-- dummy change for auto-merge test -->
